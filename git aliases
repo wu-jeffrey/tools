@@ -1,0 +1,9 @@
+[alias]
+        co = checkout
+        br = branch
+        pl = pull
+        ps = push
+        cm = commit
+        psfrc = push --force-with-lease
+        unstage = reset HEAD --
+        
